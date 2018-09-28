@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba  Gamma Partners</string>
+    <string name="error_login">Hubo un error de conexión, Por favor Intente más tarde</string>
+
+    <string name="menu_order_ph">PH Order</string>
+    <string name="menu_order_date">First Brewed Order</string>
+
+</resources>
